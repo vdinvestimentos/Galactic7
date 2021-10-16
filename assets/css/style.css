@@ -2221,3 +2221,12 @@ div.event::after {
 .maxWidthEight {
   max-width: 70% !important;
 }
+
+a.disabled {
+  pointer-events: none;
+  cursor: default;
+}
+
+.cemWidth{
+  width: 100%;
+}
