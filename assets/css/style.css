@@ -2227,6 +2227,15 @@ a.disabled {
   cursor: default;
 }
 
-.cemWidth{
-  min-width: 100% !important;
+.centerImage{
+  width: auto;
+    height: auto;
+    position: absolute;
+    max-height: 100%;
+    max-width: 100%;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
 }
