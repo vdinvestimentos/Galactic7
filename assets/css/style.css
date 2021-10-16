@@ -2228,5 +2228,5 @@ a.disabled {
 }
 
 .cemWidth{
-  width: 100%;
+  min-width: 100% !important;
 }
