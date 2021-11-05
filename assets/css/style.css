@@ -553,7 +553,7 @@ section {
 
 .section-title {
   text-align: center;
-  padding-bottom: 30px;
+  /* padding-bottom: 30px; */
 }
 
 .section-title h2 {
